@@ -1,8 +1,8 @@
 # Workbook 2
 
-## Section A -  EV3 startup
+## Section A -  EV3 start-up
 
-Open the EV3 Mindstorns application
+Open the EV3 Mindstorms application
 
 The EV3 application icon looks like this:
 
@@ -95,7 +95,7 @@ Now set the steering to 100. Again, make sure that the indicator on the wheel is
 
 `What happened this time?`
 
-Using 2 Move Tank blocks and a Steer Tank block, make you robot go farward, then turn around and come back.
+Using 2 Move Tank blocks and a Steer Tank block, make you robot go forward, then turn around and come back.
 
 `Was anything different this time?`
 

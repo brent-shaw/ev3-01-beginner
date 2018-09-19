@@ -1,8 +1,8 @@
 # Workbook 2
 
-## Section A -  EV3 startup
+## Section A -  EV3 start-up
 
-Open the EV3 Mindstorns application
+Open the EV3 Mindstorms application
 
 The EV3 application icon looks like this:
 
@@ -61,7 +61,7 @@ Once you have your brick named, connect it to your PC or tablet.
 2. On your brick, go to the settings menu, and go down
 3. Open your Bluetooth settings, and make sure that both “Visibility” and “Bluetooth” are turned on.
 NOTE: If you are using an iPad, you will need to select the “iPhone/iPad/iPod” setting. For Android or Windows devices, leave this setting turned off.
-4. Once Bluetooth (on your brick) is turded on, open the Bluetooth settings menu for your device.
+4. Once Bluetooth (on your brick) is turned on, open the Bluetooth settings menu for your device.
 5. Select and pair with your brick.
 6. A message should appear on your brick asking if you would like to pair with the device. Click the tick [Yes] option.
 7. It should ask you to enter a code (by default this is 1234). Leave this as the code and pair.
@@ -100,7 +100,7 @@ You can use this to change the colour of the light, make it pulse (flash), or tu
 
 ## Lesson challenge
 
-Using the sound, display and keypad lights, make a “start-up” greating for your robot. You can use the Morse Code from the previous lesson to say “Hello”, or you can sing a song (but remember to turn the volume down).
+Using the sound, display and keypad lights, make a “start-up” greeting for your robot. You can use the Morse Code from the previous lesson to say “Hello”, or you can sing a song (but remember to turn the volume down).
 
 Use the light to flash, change colour, or show when the picture on the screen has changed. You can also add more pictures to the display if your robot has more to say.
 
