@@ -18,3 +18,13 @@ We would like to open a “New Program”, so that we can start working with our
 This is the programming window, this is where we will be doing all of our programming.
 
 ![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/software_images/labelledCanvas.png)
+
+## Section B - Loops
+
+Sometimes when writing a program, you end up with long chains of blocks that all to the same, or very similar things.
+
+To avoid copying and pasting the same block over and over, we can instead use a loop block to repeat that action a number of times.
+
+## Section C - Decisions
+
+## Section D - Sensors
