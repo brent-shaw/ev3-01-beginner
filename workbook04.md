@@ -46,8 +46,7 @@ This is a much simpler looking program. As you can see, there is a move tank blo
 
 `Did your robot move in a square?`
 
-`Can you make your robot do a hexagon?`
-`How did you do this?`
+`How would you modify the program to make your robot drive in a larger square?`
 
 ### Exploring loops
 
@@ -61,9 +60,23 @@ Copy this program above and look at how it works.
 
 `What does this program do?`
 
-## Section C - Decisions
+## Lesson challenge
 
-![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/program_images/switch.PNG)
+Previously your robot drive in a square. Let's try some more complicated shapes.
 
+`Can you make your robot do a triangle, hexagon or star?`
 
-## Section D - Sensors
+`Which shape did you do?`
+
+`How did you do this?`
+
+### ROADBLOCK
+#### This is only if you made it through all the other tasks before the end of the lesson
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/176px-Chessboard480.svg.png)
+
+This is a chess board. It is an 8 by 8 grid (64 squares). The challenge for this roadblock is to program your robot to drive so that it goes over every block on the baord.
+
+To to use loops to do this.
+
+`How did you do this?`
