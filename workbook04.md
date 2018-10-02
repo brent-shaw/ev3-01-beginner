@@ -25,6 +25,45 @@ Sometimes when writing a program, you end up with long chains of blocks that all
 
 To avoid copying and pasting the same block over and over, we can instead use a loop block to repeat that action a number of times.
 
+### Driving in a square
+
+![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/program_images/square.PNG)
+
+This is what a program to make your robot move in a square would look like. If you haven't yet made your robot do this, take the time now to make this program.
+
+A square is not a very complicated shape, but as you can see, the program is already getting quite large.
+
+If you look at the blocks though, you can see that there is a pattern:
+* Go forward
+* Turn right
+* Repeat
+
+This is where loops comes in. Loops allow you to specify a set of instructions (blocks), and then they let you repeat those instead of copying and pasting them over and over.
+
+![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/program_images/square(loop).PNG)
+
+This is a much simpler looking program. As you can see, there is a move tank block and a steer tank block inside of a loop block. The loop block is then set to 'Count' up to 4 (because squares have 4 sides).
+
+`Did your robot move in a square?`
+
+`Can you make your robot do a hexagon?`
+`How did you do this?`
+
+### Exploring loops
+
+Loops work repeating until a certain condition is met. This could be counting up to a number, running until something happens, or running forever.
+
+![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/program_images/loopTest.PNG)
+
+The program above shows how the counting loop can be used to provide a number that can be used control something. 
+
+Copy this program above and look at how it works.
+
+`What does this program do?`
+
 ## Section C - Decisions
+
+![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/program_images/switch.PNG)
+
 
 ## Section D - Sensors
