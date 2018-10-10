@@ -1,6 +1,6 @@
 # Lego Sensors
 
-The Lego EV3 Mindstorms kit has manu types of sensors:
+The Lego EV3 Mindstorms kit has many types of sensors:
 
 ## Colour Sensor
 ![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/hardware_images/sensorColour1.jpg "Colour Sensor")
@@ -9,7 +9,7 @@ The Lego EV3 Mindstorms kit has manu types of sensors:
 
 ### Example - Colour Speak
 
-This example reads the information coming form the colour sensor andtrhen used the speaker to say which colour is being detected.
+This example reads the information coming form the colour sensor and then used the speaker to say which colour is being detected.
 
 ![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/program_images/colourSpeak.PNG)
 

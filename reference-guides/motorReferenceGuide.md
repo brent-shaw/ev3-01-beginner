@@ -11,7 +11,7 @@ The Lego EV3 Mindstorms kit has two types of motors:
 
 The Lego Mindstorms programming application provides 3 programming blocks for using the large motors.
 
-**NOTE:** Because these are smart motors (discussed later), the motors is able to tell by how much is has turned. This means that when you turn by degrees, if something interferes or stops the motol completing the given degrees, then the program will hang, waiting to the motor rotation to complete.
+**NOTE:** Because these are smart motors (discussed later), the motors is able to tell by how much is has turned. This means that when you turn by degrees, if something interferes or stops the motor completing the given degrees, then the program will hang, waiting to the motor rotation to complete.
 
 ## Large Motor
 

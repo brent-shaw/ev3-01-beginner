@@ -21,3 +21,12 @@ This is the programming window, this is where we will be doing all of our progra
 
 ## Section B - Avoiding objects
 
+It would be nice to let your robot roam free, but there is a good chance it will drive into things.
+
+Since our robots don't have eyes, we will be using Lego's ultrasonic sensor. If your robot does not have the ultrasonic sensor already attached, do that now before continuing.
+
+### Ultrasonic Sensor
+
+![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/hardware_images/sensorUltrasonic1.jpg "Ultrasonic Sensor")
+
+The
