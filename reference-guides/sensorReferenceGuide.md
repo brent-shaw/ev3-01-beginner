@@ -21,3 +21,11 @@ This example reads the information coming form the colour sensor and then used t
 
 ## Ultrasonic Sensor
 ![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/hardware_images/sensorUltrasonic1.jpg "Ultrasonic Sensor")
+
+The ultrasonic sensor works up to 255cm.
+
+**NOTE:** You can use the ultrasonic sensor in a "listen only" mode, which will make the sensor to only receive. This allows us to use the sensor to survey for robots also using the ultrasonic sensor.
+
+### Example - Abject Avoid
+
+This example allows the robot to freely drive about. When the robot is less that 100mm from an object, it will turn away, avoiding the object.
