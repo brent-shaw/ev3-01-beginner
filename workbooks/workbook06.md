@@ -29,4 +29,5 @@ Since our robots don't have eyes, we will be using Lego's ultrasonic sensor. If 
 
 ![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/hardware_images/sensorUltrasonic1.jpg "Ultrasonic Sensor")
 
-The
+This example allows the robot to freely drive about. When the robot is less that 100mm from an object, it will turn away, avoiding the object.
+
