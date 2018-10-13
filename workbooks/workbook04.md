@@ -54,7 +54,7 @@ Loops work repeating until a certain condition is met. This could be counting up
 
 ![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/program_images/loopTest.PNG)
 
-The program above shows how the counting loop can be used to provide a number that can be used control something. 
+The program above shows how the counting loop can be used to provide a number that can be used control something.
 
 Copy this program above and look at how it works.
 
@@ -75,7 +75,7 @@ Previously your robot drive in a square. Let's try some more complicated shapes.
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/176px-Chessboard480.svg.png)
 
-This is a chess board. It is an 8 by 8 grid (64 squares). The challenge for this roadblock is to program your robot to drive so that it goes over every block on the baord.
+This is a chess board. It is an 8 by 8 grid (64 squares). The challenge for this roadblock is to program your robot to drive so that it goes over every block on the board.
 
 To to use loops to do this.
 
