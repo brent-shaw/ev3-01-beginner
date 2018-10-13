@@ -19,7 +19,7 @@ This is the programming window, this is where we will be doing all of our progra
 
 ![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/software_images/labelledCanvas.png)
 
-## Section B - Avoiding objects
+## Section B - Distance sensing
 
 It would be nice to let your robot roam free, but there is a good chance it will drive into things.
 
@@ -28,6 +28,18 @@ Since our robots don't have eyes, we will be using Lego's ultrasonic sensor. If 
 ### Ultrasonic Sensor
 
 ![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/hardware_images/sensorUltrasonic1.jpg "Ultrasonic Sensor")
+
+The ultrasonic sensor can sense object up to 255cm away. If you look in the brick information area, you should be able to see the distance that the sensor is currently reading.
+
+`Test with your robot. What is the furtherest that you could sense?`
+
+`What was the closest?`
+
+## Section C - Having some fun with the sensor
+
+![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/program_images/ultrasonicSound.PNG "Sonifying the distance")
+
+
 
 This example allows the robot to freely drive about. When the robot is less that 100mm from an object, it will turn away, avoiding the object.
 
