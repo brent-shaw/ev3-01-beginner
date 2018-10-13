@@ -26,6 +26,8 @@ The ultrasonic sensor works up to 255cm.
 
 **NOTE:** You can use the ultrasonic sensor in a "listen only" mode, which will make the sensor to only receive. This allows us to use the sensor to survey for robots also using the ultrasonic sensor.
 
-### Example - Abject Avoid
+### Example - Object Avoid
 
-This example allows the robot to freely drive about. When the robot is less that 100mm from an object, it will turn away, avoiding the object.
+![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/program_images/avoid2.PNG "Avoid obstacles")
+
+This example allows the robot to freely drive about. The program has 2 switches in it. The inner-most switch lets the robot drive at 50% power if it is more than 20cm from an obstacle, but slows it to 10% if it is less than 20cm. The outer switch check if the robot is less that 10cm, and makes the robot reverse away from the obstacle, before turning to the right and continuing.

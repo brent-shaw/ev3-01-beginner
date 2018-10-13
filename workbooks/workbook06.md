@@ -67,7 +67,7 @@ As the program is currently, the pitch of the tone gets higher, the further the 
 
 ## Section D - Avoiding obstacles
 
-![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/program_images/avoid2.PNG "Sonifying the distance")
+![alt text](https://raw.githubusercontent.com/brent-shaw/ev3-01-beginner/master/resources/program_images/avoid2.PNG "Avoid obstacles")
 
 Program the blocks shown above.
 
